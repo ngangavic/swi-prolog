@@ -1,0 +1,9 @@
+city(uppsala, sweden).
+city(stockholm, sweden).
+city(helsinki, finland).
+city(oslo, norway).
+city(london, england).
+city(paris, france).
+city(paris, texas).
+city(amsterdam, netherlands).
+city(hague, netherlands).
